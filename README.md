@@ -13,3 +13,11 @@ Este repo reúne todas las tareas y actividades que se realizaran en la materia 
 - **Documentos:** Apuntes, resúmenes y ejemplos para complementar lo visto en clase.
 
 ---
+
+## Propósito
+
+- Aprender la base teórica de Redes Neuronales (RN).
+- Aplicar la probabilidad para modelar sistemas con incertidumbre.
+- Hacer simulaciones y análisis prácticos con datos.
+- Relacionar todo esto con Redes Neuronales (RN) y su funcionamiento.
+
